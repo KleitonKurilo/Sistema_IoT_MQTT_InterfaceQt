@@ -4,9 +4,9 @@
 #include <ModbusRtu.h>
 
 
- const char* ssid = "WiFi Alufrost";
- const char* password = "8^eHPyXg6*Ey";
- const char* mqtt_server = "192.168.3.172";
+ const char* ssid = ".....";
+ const char* password = ".....";
+ const char* mqtt_server = ".....";
  const char* mqtt_topic = "Mesa3";
  const char* mqtt_topic1 = "EstA3";
  const char* mqtt_topic2 = "EstR3";
